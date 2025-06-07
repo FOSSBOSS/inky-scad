@@ -1,3 +1,13 @@
+
+Ok The premise here is good, but I'd like to do some different things. Inkscape features supperiour artist level editing, and measurement tools, but only in 2D.
+openscad has no such freehand drawing, but does make 3D.
+Utilizing gradients, and layers, Im thinking maybe I can expand on the drawing ability on open scad.
+Will it be jank? oh yes.
+An abomination? almost certainly.
+Will it use python, with obscure color based formating to indicate various dimensional properties? You know it.
+
+
+
 OpenSCAD Polygon Output for Inkscape
 ====================================
 
